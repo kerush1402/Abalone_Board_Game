@@ -1,0 +1,2 @@
+C:\Devel\Visual Basic Workspace\Projects\Cpp\Abalone\Abalone\Debug\Abalone.exe
+C:\Devel\Visual Basic Workspace\Projects\Cpp\Abalone\Abalone\Debug\Abalone.pdb
